@@ -13,6 +13,7 @@ header {
 }
 body {
   background-color: #D4D5D4;
+  margin: 0;
 }
 #whitebean {
   width:350px;
