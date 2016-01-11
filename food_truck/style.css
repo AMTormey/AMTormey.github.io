@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Copse);
-
+@import url(https://fonts.googleapis.com/css?family=Poppins);
 header {
   font-family: 'Copse', serif;
   font-size: 20px;
@@ -9,7 +9,13 @@ header {
   padding: 2px;
   margin: auto;
   background-image: url(http://theartmad.com/wp-content/uploads/Grey-Chevron-Background-Image-07.jpg);
-  border-bottom: 10px solid #4DA94F;
+  border-bottom: 8px solid #4DA94F;
+}
+header h1 {
+  font-size: 45px;
+}
+header h2{
+  color: #1E2180;
 }
 body {
   background-color: #D4D5D4;
@@ -51,28 +57,140 @@ body {
   font-size: 15px;
   color: #273D28;
 }
+#weHead h1{
+  color: #1E2180;
+}
 #Story {
   font-family: 'Copse', serif;
   text-align: center;
   color: #273D28;
+  font-size: 20px;
+}
+#Story h1 {
+  background-image: url(http://theartmad.com/wp-content/uploads/Grey-Chevron-Background-Image-07.jpg);
+  border-bottom: 7px solid #4DA94F;
+  border-top: 3px solid white;
+  margin: 0px;
+  padding: 20px;
+  width: 100%;
+  font-size: 42px;
+  color: #1E2180;
+}
+#blackbeans {
+  width: 200px;
+  height: auto;
+}
+#eyedpeas {
+  width: 200px;
+  height: auto;
 }
 #Menu {
   font-family: 'Copse', serif;
   text-align: center;
   color: #273D28;
 }
+#Menu h1 {
+  background-image: url(http://theartmad.com/wp-content/uploads/Grey-Chevron-Background-Image-07.jpg);
+  border-top: 3px solid white;
+  border-bottom: 7px solid #4DA94F;
+  font-size: 42px;
+  margin: 0;
+  padding: 25px;
+  width: 100%;
+  color: #1E2180;
+}
 #Menu h2 {
   font-weight: bold;
   color: #4DA94F;
+  font-size: 28px;
+}
+#Menu h3 {
+  line-height: 2px;
+  font-size: 20px;
 }
 #Menu h4 {
   color: #273D28;
 }
+#App {
+  width: 250px;
+  padding: 12px;
+  border: 8px solid white;
+  margin: 10px;
+  margin-left: 34px;
+  margin-bottom: 80px;
+  float: left;
+}
+#Soup {
+  width: 250px;
+  padding: 12px;
+  padding-bottom: 92px;
+  border: 8px solid white;
+  margin: 10px;
+  margin-bottom: 80px;
+  float: left;
+}
+#Sand {
+  width: 250px;
+  padding: 12px;
+  padding-bottom: 153px;
+  border: 8px solid white;
+  margin: 10px;
+  margin-bottom: 80px;
+  float: left;
+}
+#Beans {
+  width: 250px;
+  padding: 12px;
+  padding-bottom: 113px;
+  border: 8px solid white;
+  margin: 10px;
+  margin-bottom: 80px;
+  float: left;
+}
+#lentil {
+  width: 260px;
+  height: auto;
+  float: right;
+  margin-top: 160px;
+  margin-right: 500px;
+  margin: 20px;
+}
+#falafel {
+  width: 275px;
+  height: auto;
+  float: right;
+  margin-top: 160px;
+  margin: 20px;
+}
+#dal {
+  width: 275px;
+  height: auto;
+  float: right;
+  margin-top: 160px;
+  margin: 20px;
+}
+#truck {
+  width: 300px;
+  height: auto;
+  float: right;
+  margin-top: 160px;
+  margin: 20px;
+}
 #Events {
+  margin-top: 50px;
+  padding-bottom: 20px;
+  padding-top: 50px;
+  width: 100%;
+  float: right;
   font-family: 'Copse', serif;
   text-align: center;
   color: #273D28;
+  background-image: url(http://theartmad.com/wp-content/uploads/Grey-Chevron-Background-Image-07.jpg);
+  border: 5px solid white;
 }
 #Events li{
   list-style: none;
+}
+#Events h1{
+  color: #1E2180;
 }
