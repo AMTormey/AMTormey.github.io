@@ -1,0 +1,150 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script:700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Petit+Formal+Script);
+
+header {
+  background-image: url(file:///Users/AMTormey/Documents/GitHub/Girl%20Boss/Images/Sample%20Desk.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-position: center;
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+header h1 {
+  color: #FF206E;
+  font-size: 90px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  position: relative;
+}
+h1 {
+  color: #FF206E;
+  font-size: 60px;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+header h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  text-align: center;
+  color: black;
+  position: relative;
+  margin-top: 140px;
+  margin-left: 80px;
+}
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 22px;
+  margin-top: 0px;
+  color: black;
+}
+h3 {
+  text-align: center;
+  font-size: 23.2px;
+  font-family: 'Playfair Display', serif;
+}
+
+body {
+  background-image: url(file:///Users/AMTormey/Documents/GitHub/Girl%20Boss/Images/greywallpaper.jpg);
+}
+#proud {
+  width: 200px;
+  height: auto;
+  margin-left: 18px;
+  margin-bottom: 60px;
+}
+#hustle {
+  width: 165px;
+  height: auto;
+  margin-left: 18px;
+  margin-bottom: 50px;
+}
+#bosslady {
+  width: 400px;
+  height: auto;
+  margin-left: 8px;
+  margin-bottom: 18px;
+}
+#desk {
+  width: 400px;
+  height: auto;
+  margin-left: 18px;
+  margin-bottom: 18px;
+}
+body p {
+  background-color: #FFFFFF;
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 29px;
+  color: #41EAD4;
+  text-align: center;
+  padding: 8px;
+}
+
+.button {
+  margin-top: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px;
+  background-color: #FBFF12;
+  border: 6px solid #FFFFFF;
+  color: #FF206E;
+  text-decoration: none;
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+}
+
+body p1 {
+  background-color: #FFFFFF;
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 45px;
+  color: #41EAD4;
+  text-align: center;
+  padding: 8px;
+  margin-top: 38px;
+  margin-right: 100px;
+  margin-left: 80px;
+  float: left;
+}
+#power {
+  width: 260px;
+  height: auto;
+  margin-top: 60px;
+  margin-left: 10px;
+  float: left;
+  border: 2px solid black;
+}
+#shoes {
+  width: 240px;
+  height:auto;
+  margin-left: 10px;
+  margin-top: 60px;
+  float: left;
+  border: 2px solid black;
+}
+#style {
+  width: 220px;
+  height: auto;
+  margin-left: 10px;
+  margin-top: 60px;
+  float: left;
+  border: 2px solid black;
+}
+#zoe {
+  width: 450px;
+  height: auto;
+  margin-top: 60px;
+  margin-left: 0px;
+  margin-right: 20px;
+  margin-bottom: 12px;
+  float: left;
+}
+
+#row {
+  width: 75px;
+  height: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
